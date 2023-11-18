@@ -1,0 +1,17 @@
+.product {
+    border: 1px solid #189e8c;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .product-image {
+        height: 80px;
+        margin: 0 auto;
+        display: block;
+    
+  }
+  .productname, .productprice, .quantity {
+    margin: 5px 0;
+  }
+  
